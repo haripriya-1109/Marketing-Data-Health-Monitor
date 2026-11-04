@@ -1,0 +1,11 @@
+metric,value
+Total Records,2050.0
+Missing Company Names,45.0
+Missing Emails,62.0
+Missing Job Titles,92.0
+Missing Campaign Names,75.0
+Invalid Emails,41.0
+Duplicate Email Records,47.0
+Inconsistent Company Records,77.0
+Records Requiring Review,410.0
+Average Quality Score,95.72
