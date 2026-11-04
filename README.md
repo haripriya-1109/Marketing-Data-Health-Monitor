@@ -8,6 +8,11 @@ Marketing teams rely on accurate and consistent data to support campaign executi
 
 This project demonstrates a data quality monitoring workflow using a synthetic marketing leads dataset. It identifies common data issues, assigns quality scores, prioritizes records for review, and provides an interactive dashboard for investigation.
 
+## Project Presentation
+
+- [View Case Study (PDF)](presentation/Marketing-Data-Health-Monitor%20PDF.pdf)
+- [View PowerPoint](presentation/Marketing-Data-Health-Monitor%20PPT.pptx)
+
 ## Key Features
 
 - **Data Overview:** Monitor total records, average quality score, and records requiring review.
